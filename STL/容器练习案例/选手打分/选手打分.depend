@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624439248 source:g:\cppfile\stl\容器练习案例\选手打分\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<deque>
+	<vector>
+

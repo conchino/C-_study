@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624604843 source:g:\cppfile\stl\tuple ิชื้\tuple--ป๙ดก\main.cpp
+	<iostream>
+	<string>
+	<tuple>
+	<functional>
+

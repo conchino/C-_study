@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624713399 source:g:\cppfile\stl\内建函数对象\关系仿函数\main.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<algorithm>
+	<functional>
+

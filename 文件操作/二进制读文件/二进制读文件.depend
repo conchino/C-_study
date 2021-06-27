@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624175804 source:g:\cppfile\文件操作\二进制读文件\main.cpp
+	<iostream>
+	<fstream>
+

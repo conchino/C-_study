@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622464732 source:g:\cppfile\__编程练习__\二分查找\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+

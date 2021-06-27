@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624437333 source:g:\cppfile\stl\deque ÈÝÆ÷\deque--»ù´¡²Ù×÷\main.cpp
+	<iostream>
+	<deque>
+	<algorithm>
+	<ctime>
+

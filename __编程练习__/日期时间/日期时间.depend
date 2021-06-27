@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622771403 source:g:\cppfile\__编程练习__\日期时间\main.cpp
+	<iostream>
+	<ctime>
+

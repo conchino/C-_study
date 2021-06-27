@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623388351 source:g:\cppfile\__编程练习__\类\类和封装\main.cpp
+	<iostream>
+	<string>
+	"CL_1.h"
+
+1623388500 source:g:\cppfile\__编程练习__\类\类和封装\cl_1.cpp
+	"CL_1.h"
+
+1623388717 g:\cppfile\__编程练习__\类\类和封装\cl_1.h
+	<string>
+	<iostream>
+

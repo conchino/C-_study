@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624800187 source:g:\cppfile\stl\常用算法\set_difference差集\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622039319 source:c:\users\cong\desktop\c程序\c++程序测试\数据类型\main.cpp
+	<iostream>
+
+1622298182 source:g:\cppfile\数据类型\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+

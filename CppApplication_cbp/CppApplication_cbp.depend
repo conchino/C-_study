@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622367732 source:g:\cppfile\cppapplication_cbp\main.cpp
+	<iostream>
+	<stdexcept>
+	<limits>
+

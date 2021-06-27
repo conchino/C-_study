@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624789159 source:g:\cppfile\stl\常用算法\merge算法\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ctime>
+

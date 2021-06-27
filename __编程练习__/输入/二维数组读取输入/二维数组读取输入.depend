@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623135576 source:g:\cppfile\__编程练习__\输入\二维数组读取输入\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<string.h>
+

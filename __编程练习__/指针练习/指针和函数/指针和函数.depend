@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622515207 source:g:\cppfile\__编程练习__\指针和函数\main.cpp
+	"fun_bubble.h"
+
+1622515359 g:\cppfile\__编程练习__\指针和函数\fun_bubble.h
+	<iostream>
+
+1622515153 source:g:\cppfile\__编程练习__\指针和函数\fun_bubble.cpp
+	"fun_bubble.h"
+

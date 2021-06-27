@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1624279222 source:g:\cppfile\模板\类模板案例--通用数组类\main.cpp
+	"MyArray.hpp"
+	<ctime>
+	<string>
+
+1624277610 g:\cppfile\模板\类模板案例--通用数组类\myarray.hpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622469966 source:g:\cppfile\二分查找测试\数组指针遍历\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624783860 source:g:\cppfile\stl\常用算法\transform 算法\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

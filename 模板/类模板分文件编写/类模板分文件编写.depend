@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1624264969 source:g:\cppfile\模板\类模板分文件编写\mytemplateclass.cpp
+	"myTemplateClass.h"
+
+1624265279 g:\cppfile\模板\类模板分文件编写\mytemplateclass.h
+	<iostream>
+	<string>
+
+1624265300 source:g:\cppfile\模板\类模板分文件编写\main.cpp
+	<iostream>
+	<string>
+	"myTemplateClass.hpp"
+
+1624265228 g:\cppfile\模板\类模板分文件编写\mytemplateclass.cpp
+	"myTemplateClass.h"
+
+1624265335 g:\cppfile\模板\类模板分文件编写\mytemplateclass.hpp
+	<iostream>
+	<string>
+

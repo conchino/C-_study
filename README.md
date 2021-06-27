@@ -1,2 +1,2 @@
-# C-_study
+# Cpp_study
 C++ learning record.
